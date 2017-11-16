@@ -16,8 +16,8 @@ namespace App001
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-            Double h = Double.Parse(this.He.Text);
-            Double w = Double.Parse(this.We.Text);
+            Double h = Double.Parse(this.he.Text);
+            Double w = Double.Parse(this.we.Text);
 
 
             h = h / 100;
