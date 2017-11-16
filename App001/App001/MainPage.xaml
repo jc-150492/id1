@@ -23,6 +23,7 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" 
                     Clicked="Button_Clicked"/>
+            <!--aa-->
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
